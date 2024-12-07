@@ -1,6 +1,6 @@
 # Animated Button with Done State
 
-## <a href="https://adityamamta.github.io/glassmorphism-card/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a>
+## <a href="https://adityamamta.github.io/animated-loadingbar-button/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a>
 
 An interactive button with an animation and state management, transitioning between "Click Me!" and "Done!" seamlessly.
 
